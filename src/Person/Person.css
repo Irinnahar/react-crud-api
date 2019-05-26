@@ -1,0 +1,6 @@
+.cardbox{
+    border: 1px solid gray;
+    cursor: pointer;
+    width: 300px;
+    margin: 10px auto;
+}
