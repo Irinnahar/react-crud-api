@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* page css */
+.green{
+  color: green
+}
+
+.red{
+  color: red
+}
